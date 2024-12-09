@@ -1,4 +1,6 @@
 # silver-lamp
+The link for the Jupyter notebook for this project is: https://github.com/saeedjazebi/silver-lamp/blob/main/silver_lamp.ipynb
+
 Amazon is assessing a new service that can increase local business traffic by offering coupon to drivers in the area. Will it be a successful service or business? 
 
 The goal of this project is to use visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those that did not.
